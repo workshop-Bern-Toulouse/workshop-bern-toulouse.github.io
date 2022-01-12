@@ -1,11 +1,12 @@
 ---
 layout: splash
 title: "Current frontiers in Gaussian Processes"
+excerpt: "Participating committees"
 classes: wide
 permalink: /committees/
 header:
   overlay_image: /assets/images/header.png
-  overlay_filter: 0.5
+  overlay_filter: 0.2
 ---
 
 # Scientific Committee: 

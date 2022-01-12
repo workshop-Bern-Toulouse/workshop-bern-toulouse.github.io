@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 header:
   overlay_image: /assets/images/header.png
-  overlay_filter: 0.5
+  overlay_filter: 0.2
   actions:
     - label: "Registration"
       url: "foo"

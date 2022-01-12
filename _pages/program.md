@@ -1,12 +1,12 @@
 ---
 layout: splash
-title: "Program of the workshop"
+title: "Current frontiers in Gaussian Processes"
+excerpt: "Program of the workshop"
 description: "Workshop's schedule"
-excerpt:  "See the schedule of:"
 permalink: /program/
 header:
   overlay_image: /assets/images/header.png
-  overlay_filter: 0.1
+  overlay_filter: 0.2
   actions:
     - label: "First day"
       url: "/program/#monday-13th-june-2022"
