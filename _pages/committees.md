@@ -2,9 +2,7 @@
 layout: splash
 title: "Current frontiers in Gaussian Processes"
 classes: wide
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /committees/
 header:
   overlay_image: /assets/images/header.png
   overlay_filter: 0.5
