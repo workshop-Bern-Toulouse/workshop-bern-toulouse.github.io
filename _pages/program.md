@@ -6,7 +6,7 @@ excerpt:  "See the schedule of:"
 permalink: /program/
 header:
   overlay_image: /assets/images/header.png
-  overlay_filter: 0.5
+  overlay_filter: 0.1
   actions:
     - label: "First day"
       url: "/program/#monday-13th-june-2022"
