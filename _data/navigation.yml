@@ -1,0 +1,26 @@
+# main links links
+main:
+  - title: "Program"
+    url: /program/
+
+  - title: "Program2"
+    url: /program2/
+
+  - title: "Program3"
+    url: /program3/
+
+  - title: "Speakers"
+    url: /speakers/    
+
+  - title: "Contributions"
+    url: /contributions/  
+
+  - title: "Committees"
+    url: /organizers/ 
+
+  - title: "Video"
+    url: /video/
+
+  - title: "Additional information"
+    url: /otherinfo/
+
