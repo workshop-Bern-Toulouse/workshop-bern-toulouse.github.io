@@ -30,7 +30,7 @@ header:
 |:-----------:|:-------------:|:-------------------|  
 | 09:00 - 09:45 | Martin Outzem Berild | Flexible covariance structures for three-dimensional Gaussian random fields |  
 | 10:00 - 10:30 |  | *Break*  |   
-| 10:30 - 11:15 | Marianne Abemgnigni Njifon | TBA |  
+| 10:30 - 11:15 | Marianne Abemgnigni Njifon | A graph convolutional network for inference with spatial data |  
 | 11:30 - 12:15 | Guillaume Pirot  | Can we parameterize geological conceptual models in a continuous space? | 
 | 12:30 - ........... |  | Brainstorming pic-nic |  
 
