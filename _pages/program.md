@@ -2,13 +2,12 @@
 layout: splash
 classes: wide
 title: "Current frontiers in Gaussian Processes"
-excerpt: "List of speakers"
-description: "List of speakers (work in progress)"
-permalink: /speakers/
+excerpt: "Program of the workshop"
+description: "Workshop's schedule"
+permalink: /program/
 header:
   overlay_image: /assets/images/header.png
   overlay_filter: 0.2
-
 ---
 
 # Schedule 
