@@ -19,11 +19,11 @@ header:
 
 * [Nicolas Durrande](https://sites.google.com/site/nicolasdurrandehomepage/) 
 
-* [Carl Henrik Ek](http://carlhenrik.com/) 
-
 * [Geir-Arne Fuglstad](https://www.ntnu.edu/employees/geir-arne.fuglstad)
 
 * [Victor Picheny](https://sites.google.com/site/victorpicheny/) 
+
+* [Guillaume Pirot](https://research-repository.uwa.edu.au/en/persons/guillaume-pirot)
 
 * [Filip de Roos](https://is.mpg.de/person/fderoos) 
 

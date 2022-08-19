@@ -1,10 +1,13 @@
 ---
-layout: wide
+layout: splash
+classes: wide
 title: "Current frontiers in Gaussian Processes"
-excerpt: "Program of the workshop"
-description: "Workshop's schedule"
-permalink: /program/
-
+excerpt: "List of speakers"
+description: "List of speakers (work in progress)"
+permalink: /speakers/
+header:
+  overlay_image: /assets/images/header.png
+  overlay_filter: 0.2
 
 ---
 
