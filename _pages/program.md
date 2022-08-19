@@ -1,19 +1,10 @@
 ---
-layout: splash
+layout: wide
 title: "Current frontiers in Gaussian Processes"
 excerpt: "Program of the workshop"
 description: "Workshop's schedule"
 permalink: /program/
-header:
-  overlay_image: /assets/images/header.png
-  overlay_filter: 0.2
-  actions:
-    - label: "First day"
-      url: "/program/#monday-24th-august-2022"
-    - label: "Second day"
-      url: "/program/#tuesday-25th-august-2022"
-    - label: "Third day"
-      url: "/program/#wednesday-26th-august-2022"
+
 
 ---
 
