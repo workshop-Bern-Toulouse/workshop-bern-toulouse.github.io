@@ -1,7 +1,7 @@
 # main links
 main:
-  #- title: "Program"
-  #  url: /program/
+  - title: "Program"
+    url: /program/
 
   - title: "Speakers"
     url: /speakers/  
