@@ -38,7 +38,7 @@ header:
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-----------:|:-------------:|:-------------------|  
-| 09:00 - 09:45 | Victor Picheny  | TBA |  
+| 09:00 - 09:45 | Victor Picheny  | Scaling up Bayesian optimisation with variational inference |  
 | 10:00 - 10:30 |  | *Break*  |   
 | 10:30 - 11:15 | Geir-Arne Fuglstad (online) | Non-stationary Global Spatio-Temporal Modelling Using SPDEs |  
 | 11:30 - 12:15 |  | Informal discussions and workshop closure | 
