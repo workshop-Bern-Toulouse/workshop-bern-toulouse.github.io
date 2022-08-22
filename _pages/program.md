@@ -40,6 +40,6 @@ header:
 |:-----------:|:-------------:|:-------------------|  
 | 09:00 - 09:45 | Victor Picheny  | TBA |  
 | 10:00 - 10:30 |  | *Break*  |   
-| 10:30 - 11:15 | Geir-Arne Fuglstad (online) | TBA |  
+| 10:30 - 11:15 | Geir-Arne Fuglstad (online) | Non-stationary Global Spatio-Temporal Modelling Using SPDEs |  
 | 11:30 - 12:15 |  | Informal discussions and workshop closure | 
 
