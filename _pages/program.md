@@ -20,7 +20,7 @@ header:
 | 13:30 - 14:15 | Nicolas Durrande | Practical connection between Sparse Gaussian Process and Neural Networks via inducing variable design. |  
 | 14:30 - 15:15 | Filip de Roos (online) | High-Dimensional Gaussian Process Inference with Derivatives.  |  
 | 15:30 - 16:00 |  | *Break*  |  
-| 16:30 - 16:45 |  Dominic Schuhmacher | Convergence rates for geostatistical thinning of point processes based on Gaussian random fields. | 
+| 16:00 - 16:45 |  Dominic Schuhmacher | Convergence rates for geostatistical thinning of point processes based on Gaussian random fields. | 
 | 17:00 - 17:30 |  |  Informal Discussions |   
 | 19:00 - ........... | |  Workshop dinner |  
 
