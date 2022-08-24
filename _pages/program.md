@@ -22,8 +22,9 @@ header:
 | 15:30 - 16:00 |  | *Break*  |  
 | 16:00 - 16:45 |  Dominic Schuhmacher | Convergence rates for geostatistical thinning of point processes based on Gaussian random fields. | 
 | 17:00 - 17:30 |  |  Informal Discussions |   
-| 19:00 - ........... | |  Workshop dinner at Lokal: Militärstrasse 42, 3014 Bern |  
+| 19:00 - ........... | |  Workshop dinner at Lokal: Militärstrasse 42, 3014 Bern. |  
 
+To access the restaurant, it is recommended to go to the train station and take the bus 9A (direction Wankdorf) until the stop Breitenrain, then walk 2 minutes.
 ### Thursday 25th August 2022
   
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
