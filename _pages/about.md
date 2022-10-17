@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Current frontiers in Gaussian Processes"
-excerpt: "August 24 to 26 2022"
+title: "Workshop Toulouse comes to Bern"
+excerpt: "May 03 to 04 2022"
 layout: splash
 classes: wide
 redirect_from: 
