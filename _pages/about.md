@@ -44,4 +44,3 @@ gallery_of_pictures:
 | 14:00 - 14:45 |  Sebastian Arnold (UniBern) |  An AFSD and IDR based calibration method applied to decompose the CRPS. |  
 | 14:45 - 15:30 |  Clément Bénesse (IMT) | When Global Sensitivity Analysis provides insight into Group Fairness. |  
 
-{% include gallery id="gallery_of_pictures" caption="A small memory of the workshop" %}
