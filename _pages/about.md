@@ -10,6 +10,9 @@ redirect_from:
 header:
   overlay_image: /assets/images/group_pic.jpg
   overlay_filter: 0.2
+gallery_of_pictures:
+  - image_path: /assets/images/group_pic2.jpg
+    alt: "Group photo (full format)"
 ---
 
 *Workshop Toulouse comes to Bern* is workshop that will take place between May 03 and 04 of 2022 (at the University of Bern: Hauptgebäude, Hochschulstrasse 6, room number 028), and will aim at exchanging novel ideas explored in the participants' research work. For any question please contact the organisers Athénaïs Gautier (athenais.gautier [at] stat.unibe.ch) and Clément Bénesse (clement.benesse [at] math.univ-toulouse.fr)
@@ -40,3 +43,5 @@ header:
 | 12:00 - 14:00 |  | *Lunch break and discussions* |  
 | 14:00 - 14:45 |  Sebastian Arnold (UniBern) |  An AFSD and IDR based calibration method applied to decompose the CRPS. |  
 | 14:45 - 15:30 |  Clément Bénesse (IMT) | When Global Sensitivity Analysis provides insight into Group Fairness. |  
+
+{% include gallery id="gallery_of_pictures" caption="A small memory of the workshop" %}
