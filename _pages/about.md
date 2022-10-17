@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /assets/images/header.png
+  overlay_image: /assets/images/group_pic.jog
   overlay_filter: 0.2
 ---
 
