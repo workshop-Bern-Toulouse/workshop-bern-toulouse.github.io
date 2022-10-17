@@ -40,6 +40,3 @@ header:
 | 12:00 - 14:00 |  | *Lunch break and discussions* |  
 | 14:00 - 14:45 |  Sebastian Arnold (UniBern) |  An AFSD and IDR based calibration method applied to decompose the CRPS. |  
 | 14:45 - 15:30 |  Clément Bénesse (IMT) | When Global Sensitivity Analysis provides insight into Group Fairness. |  
-
-
-<img src="{{ https://workshop-bern-toulouse.github.io/ }}{{ https://workshop-bern-toulouse.github.io/ }}/assets/images/group_pic2.jpg" alt="">
